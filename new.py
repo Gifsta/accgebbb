@@ -1,5 +1,5 @@
 key='key'
-app_name="app name"
+app_name="accgen1567"
 deviceid=""
 emaill=""
 passwordd=""
